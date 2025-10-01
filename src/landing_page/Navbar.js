@@ -1,10 +1,10 @@
 import React from 'react';
-function Pricing() {
+function Navbar() {
     return ( 
         <h1>
-            Pricing Page
+            Navbar Section
         </h1>
      );
 }
 
-export default Pricing;
+export default Navbar;
