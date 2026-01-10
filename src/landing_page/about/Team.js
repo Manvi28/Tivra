@@ -21,12 +21,12 @@ function Team() {
         </div>
         <div className="col-6 p-3">
           <p>
-            Nithin bootstrapped and founded Zerodha in 2010 to overcome the
+            Manvi bootstrapped and founded Tivra in 2025 to overcome the
             hurdles he faced during his decade long stint as a trader. Today,
-            Zerodha has changed the landscape of the Indian broking industry.
+            Tivra has changed the landscape of the Indian broking industry.
           </p>
           <p>
-            He is a member of the SEBI Secondary Market Advisory Committee
+            She is a member of the SEBI Secondary Market Advisory Committee
             (SMAC) and the Market Data Advisory Committee (MDAC).
           </p>
           <p>Playing basketball is his zen.</p>
